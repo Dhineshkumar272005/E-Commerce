@@ -20,6 +20,8 @@ A modern, fully functional e-commerce web application built with **React 19** an
 - **⚡ Fast & Modern** — Powered by Vite for instant HMR and blazing-fast builds
 
 ---
+## Live Link: https://e-commerce-six-kappa-49.vercel.app/
+---
 
 ## 🛠️ Tech Stack
 
